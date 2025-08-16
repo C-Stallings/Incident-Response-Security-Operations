@@ -3,6 +3,15 @@
 ## 📌 Objective
 Develop and implement a Microsoft Sentinel alert rule to detect brute force login attempts on Azure virtual machines, investigate the incident in accordance with the **NIST 800-61 Incident Response Lifecycle**, and apply security controls to prevent recurrence.
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3fdb240c-885a-42a9-8c44-2146a490755f" 
+    height="365" 
+    width="701" 
+    alt="SS_SecOps_BF_Image"
+  />
+</p>
+
 ---
 
 ## 🛠 Process & Implementation
