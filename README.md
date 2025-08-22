@@ -1,6 +1,6 @@
 # Brute Force Attempt Detection with Microsoft Sentinel
 
-## 📌 Objective
+##  Objective
 Develop and implement a Microsoft Sentinel alert rule to detect brute force login attempts on Azure virtual machines, investigate the incident in accordance with the **NIST 800-61 Incident Response Lifecycle**, and apply security controls to prevent recurrence.
 
 <p align="center">
@@ -14,7 +14,7 @@ Develop and implement a Microsoft Sentinel alert rule to detect brute force logi
 
 ---
 
-## 🛠 Process & Implementation
+##  Process & Implementation
 
 ### 1. Alert Rule Creation
 - Configured a Sentinel **Scheduled Query Rule** to trigger when the same remote IP address fails to log in to the same Azure VM **10 or more times within 5 hours**.
@@ -81,7 +81,7 @@ DeviceLogonEvents
 
 ---
 
-### 🧰 Skills & Tools Used
+###  Skills & Tools Used
 - **Microsoft Sentinel**
 - **Microsoft Defender for Endpoint (MDE)**
 - **Azure Network Security Groups (NSG)**
